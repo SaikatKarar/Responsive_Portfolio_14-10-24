@@ -15,7 +15,7 @@ function Footer() {
                     <FaXTwitter className='hover:text-gray-700 cursor-pointer' />
                     <FaDribbbleSquare className='hover:text-gray-700 cursor-pointer' />
                 </div>
-                <p className='text-gray-500 mt-2'>Copyright &#9400; All right reserved | This is made by Saikat Karar</p>
+                <p className='text-gray-500 mt-2'>Copyright &#9400; all right reserved | This is made by Saikat Karar</p>
             </footer>
         </div>
     )
