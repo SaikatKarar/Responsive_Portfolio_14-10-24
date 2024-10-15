@@ -3,7 +3,7 @@ import React from 'react'
 function Hero() {
     return (
         <div>
-            <section className='bg-white flex flex-col md:flex-row items-center justify-between py-12 px-6 md:px-24'>
+            <section className='bg-white flex flex-col md:flex-row items-center justify-between px-6 md:px-24  py-24 md:py-32'>
                 <div className='flex flex-col items-start space-y-6 md:space-y-8 md:w-2/3'>
                     <h2 className='text-3xl md:text-4xl font-bold'>
                         HELLO

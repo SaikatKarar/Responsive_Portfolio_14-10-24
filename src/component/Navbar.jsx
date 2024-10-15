@@ -10,7 +10,7 @@ function Navbar() {
     }
     return (
         <div>
-            <nav className='flex justify-between items-center py-4 px-6 md:px-24 bg-white shadow-sm relative'>
+            <nav className='flex justify-between items-center py-4 px-6 md:px-24 bg-white shadow-sm fixed top-0 w-full z-50'>
                 <h1 className='text-purple-500 text-3xl font-bold'>SAIKAT KARAR</h1>
 
                 <div className='md:hidden text-2xl' onClick={toggleMenu}>
