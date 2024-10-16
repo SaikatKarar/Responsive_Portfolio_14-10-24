@@ -12,7 +12,7 @@ function Projects() {
 
     const filteredImages = activeCategory === "All" ? imagesData : imagesData.filter((image) => image.category === activeCategory);
     return (
-        <div>
+        <div id='project'>
             <div className='container mx-auto p-5'>
                 <div className='flex justify-center space-x-4 mb-6'>
                     {categories.map((category) => (

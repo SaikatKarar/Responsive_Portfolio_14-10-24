@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
     return (
-        <div>
+        <div id="about">
             <section className='flex justify-center items-center min-h-screen bg-gray-50 px-6 py-12'>
                 <div className='max-w-6xl flex flex-col md:flex-row items-center gap-16'>
                     <div className='flex-1 flex justify-center'>

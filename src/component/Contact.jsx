@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
     return (
-        <div className='flex items-center justify-center py-16 bg-gray-100'>
+        <div className='flex items-center justify-center py-16 bg-gray-100' id='contact'>
             <div className='bg-gradient-to-r from-purple-500 to-indigo-500 p-16 rounded-lg max-w-3xl w-full mx-auto'>
                 <div className='text-center mb-8'>
                     <h2 className='text-3xl font-bold text-white'>GET UPDATE FROM ANYWHERE</h2>
